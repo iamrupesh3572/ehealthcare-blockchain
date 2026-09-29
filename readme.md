@@ -60,7 +60,7 @@ ipfs --version
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/<repo-name>.git
+git clone https://github.com/<imarupesh3572>/<ehealthcare-blockchain>.git
 cd <repo-name>
 ```
 
@@ -167,7 +167,7 @@ Open **http://localhost:4200** in your browser.
 ## Author
 
 **Rupesh**
-GitHub: [@<your-username>](https://github.com/<your-username>)
+GitHub: [@<your-username>](https://github.com/<iamrupesh3572>)
 
 ## License
 
