@@ -1,0 +1,40 @@
+{
+  "name": "ehr",
+  "version": "2.0.2",
+  "scripts": {
+    "ng": "ng",
+    "start": "ng serve",
+    "build": "ng build",
+    "watch": "ng build --watch --configuration development",
+    "test": "ng test"
+  },
+  "private": true,
+  "dependencies": {
+    "@angular/animations": "^21.2.12",
+    "@angular/common": "^21.2.12",
+    "@angular/compiler": "^21.2.12",
+    "@angular/core": "^21.2.12",
+    "@angular/forms": "^21.2.12",
+    "@angular/platform-browser": "^21.2.12",
+    "@angular/platform-browser-dynamic": "^21.2.12",
+    "@angular/router": "^21.2.12",
+    "@fortawesome/fontawesome-free": "^7.2.0",
+    "@ng-bootstrap/ng-bootstrap": "^20.0.0",
+    "bootstrap": "^5.3.8",
+    "ethers": "^6.16.0",
+    "kubo-rpc-client": "^6.1.0",
+    "tslib": "^2.5.0",
+    "zone.js": "^0.15.1"
+  },
+  "devDependencies": {
+    "@angular/build": "^21.2.10",
+    "@angular/cli": "^21.2.10",
+    "@angular/compiler-cli": "^21.2.12",
+    "@nomicfoundation/hardhat-ignition-viem": "^3.1.5",
+    "@types/jasmine": "^4.3.1",
+    "@types/node": "^22.19.18",
+    "hardhat": "^3.4.5",
+    "typescript": "~5.9.3"
+  },
+  "type": "module"
+}
